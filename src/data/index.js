@@ -14,6 +14,14 @@ const employeesData = [
     email: 'adrienne@example.com',
     salary: '80000',
     date: '2019-04-17'
+  },
+  {
+    id: 3,
+    firstName: 'Tamil',
+    lastName: 'devops',
+    email: 'tamil@example.com',
+    salary: '80000',
+    date: '2019-04-17'
   }
 ];
 
